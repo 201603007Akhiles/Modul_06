@@ -35,7 +35,7 @@ function Pertanyaan (){
                          '2');
     var q4 = new Question('Mata Kuliah yang diajarkan oleh Pak oskar',
                           ['Pemrograman Web', 'DAA II', 'Kecerdasan Buatan'],
-                          '0')
+                          '0');
 
     var questions = [q1, q2, q3, q4];
     for (;;) {
