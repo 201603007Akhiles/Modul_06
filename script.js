@@ -33,7 +33,7 @@ function Pertanyaan (){
     var q3 = new Question('Kata manakah yang paling baik dalam mendeskripsikan tentang koding ?',
                          ['Bosen','Susah','Membahagiakan','Tidak Tertarik'],
                          '2');
-    var q4 = new Question('Mata Kuliah yang diajarkan oleh Pak oskar',
+    var q4 = new Question('Mata Kuliah yang diajarkan oleh Pak oskar?',
                           ['Pemrograman Web', 'DAA II', 'Kecerdasan Buatan'],
                           '0');
 
